@@ -1,6 +1,6 @@
 Một số khái niệm cơ bản trong bộ môn An ninh mạng
 
- 1. Bảo mật thông tin (Information Security)
+1. Bảo mật thông tin (Information Security)
 
 Là việc bảo vệ thông tin khỏi truy cập trái phép, sử dụng sai mục đích, tiết lộ, phá hoại hoặc thay đổi.
 
@@ -12,19 +12,19 @@ Integrity (Tính toàn vẹn): Dữ liệu không bị sửa đổi, phá hoại
 
 Availability (Tính sẵn sàng): Dữ liệu/hệ thống luôn sẵn sàng cho người dùng hợp lệ.
 
- 2. Mối đe dọa (Threat)
+2. Mối đe dọa (Threat)
 
 Là nguy cơ tiềm ẩn có thể khai thác lỗ hổng để gây hại cho hệ thống.
 
 Ví dụ: virus, hacker, thiên tai, lỗi phần cứng.
 
- 3. Lỗ hổng (Vulnerability)
+3. Lỗ hổng (Vulnerability)
 
 Là điểm yếu trong hệ thống, phần mềm, hoặc con người mà kẻ tấn công có thể lợi dụng.
 
 Ví dụ: mật khẩu yếu, phần mềm không cập nhật.
 
- 4. Tấn công mạng (Cyber Attack)
+4. Tấn công mạng (Cyber Attack)
 
 Hành động của kẻ tấn công nhằm khai thác lỗ hổng, phá hủy hoặc chiếm quyền hệ thống.
 
@@ -40,7 +40,7 @@ Man-in-the-Middle: Chặn và thay đổi dữ liệu khi đang truyền.
 
 SQL Injection / XSS: Lợi dụng lỗ hổng ứng dụng web.
 
- 5. Kiểm soát an ninh (Security Control)
+5. Kiểm soát an ninh (Security Control)
 
 Biện pháp để giảm rủi ro:
 
@@ -50,13 +50,13 @@ Quản lý: Chính sách bảo mật, phân quyền truy cập.
 
 Vật lý: Camera, khóa cửa, thẻ từ.
 
- 6. Xác thực (Authentication) & Ủy quyền (Authorization)
+6. Xác thực (Authentication) & Ủy quyền (Authorization)
 
 Authentication: Xác minh danh tính (ví dụ: mật khẩu, OTP, vân tay).
 
 Authorization: Xác định quyền của người dùng sau khi xác thực (ví dụ: user chỉ xem, admin được sửa).
 
- 7. Mã hóa (Encryption)
+7. Mã hóa (Encryption)
 
 Biến đổi dữ liệu sang dạng không đọc được nếu không có khóa giải mã.
 
@@ -66,14 +66,14 @@ Hai loại:
 
 Bất đối xứng (Asymmetric): Cặp khóa công khai – khóa bí mật.
 
- 8. Quản trị rủi ro (Risk Management)
+8. Quản trị rủi ro (Risk Management)
 
 Đánh giá mức độ ảnh hưởng của các mối đe dọa và tìm cách giảm thiểu.
 
 Công thức cơ bản:
 Rủi ro = Mối đe dọa × Lỗ hổng × Giá trị tài sản
 
- 9. Chính sách & Quy định bảo mật
+9. Chính sách & Quy định bảo mật
 
 Tập hợp quy tắc, quy trình để đảm bảo nhân viên, hệ thống tuân thủ an toàn.
 
